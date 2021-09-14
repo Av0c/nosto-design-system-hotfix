@@ -16,7 +16,7 @@ export default {
     validators.setI18n(i18n)
     Vue.prototype.$i18n = i18n
     Object.values(components).forEach(c => Vue.component(c.name, c))
-    Vue.mixin(mixins)
+    // Vue.mixin(mixins)
   }
 }
 
