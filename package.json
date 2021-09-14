@@ -8,7 +8,7 @@
     "url": "git+https://github.com/Av0c/nosto-design-system-hotfix.git"
   },
   "author": "Nosto <devops@nosto.com>",
-  "main": "dist/system/system.min.js",
+  "main": "src/system.js",
   "files": [
     "dist/system",
     "mock-data"
