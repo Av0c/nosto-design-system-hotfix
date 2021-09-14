@@ -1,3 +1,9 @@
+This project was forked to provide a working project for Nosto's frontend assignment.
+
+Changelog:
+- *Remove* breaking usage of `Vue.mixin(mixins)`
+---
+
 # Nosto Front-End developer assignment
 
 Here you will find mock data and Design System for the assignment.
